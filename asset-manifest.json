@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Pizza-Wala/static/css/main.eb55a2b1.css",
+    "main.js": "/Pizza-Wala/static/js/main.c2f1c090.js",
+    "static/media/yellow-watercolor-paper.jpg": "/Pizza-Wala/static/media/yellow-watercolor-paper.2dec8262a9b742f11ecf.jpg",
+    "static/media/combo1.png": "/Pizza-Wala/static/media/combo1.ddabb1bd901723a711de.png",
+    "static/media/5227.jpg": "/Pizza-Wala/static/media/5227.ae71c08b36356e5f84ee.jpg",
+    "static/media/bg.png": "/Pizza-Wala/static/media/bg.e25df216162c9b2fc988.png",
+    "static/media/product_4.2.jpg": "/Pizza-Wala/static/media/product_4.2.e82e43e0a3fc5dab999e.jpg",
+    "static/media/product_4.1.jpg": "/Pizza-Wala/static/media/product_4.1.3c8ecc492220a3922731.jpg",
+    "static/media/product_3.3.jpg": "/Pizza-Wala/static/media/product_3.3.f482f459be92f0045d9a.jpg",
+    "static/media/myphoto.jpeg": "/Pizza-Wala/static/media/myphoto.3b16741b07329b658326.jpeg",
+    "static/media/combo3.png": "/Pizza-Wala/static/media/combo3.2ee29e95fb2cdcf74b59.png",
+    "index.html": "/Pizza-Wala/index.html",
+    "main.eb55a2b1.css.map": "/Pizza-Wala/static/css/main.eb55a2b1.css.map",
+    "main.c2f1c090.js.map": "/Pizza-Wala/static/js/main.c2f1c090.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb55a2b1.css",
+    "static/js/main.c2f1c090.js"
+  ]
+}
